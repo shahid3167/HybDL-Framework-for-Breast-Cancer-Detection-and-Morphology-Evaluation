@@ -10,7 +10,7 @@ The dataset is available [Kaggle Website](https://www.kaggle.com/datasets/anasel
 The BUSBRA dataset [135] is used for external validation to evaluate the generalization capability and robustness of the proposed Hybrid Deep Learning framework on unseen breast ultrasound data. This dataset enables cross-dataset validation by assessing the performance consistency of the trained model under different imaging characteristics, lesion distributions, and data acquisition conditions. The external validation analysis demonstrates the capability of the proposed framework to maintain reliable performance beyond the primary training dataset.
 
 This dataset is obtained from the following reference and is available at the URL.
-The dataset is available [Zenodo Website](https://zenodo.org/records/8231412)
+The dataset is available [Zenodo Website](https://zenodo.org/records/8231412) and [Github Repository](https://github.com/wgomezf/BUS-BRA)
 
 
 ### References
